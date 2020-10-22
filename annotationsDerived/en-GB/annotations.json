@@ -1,0 +1,48 @@
+{
+  "annotationsDerived": {
+    "identity": {
+      "version": {
+        "_cldrVersion": "38"
+      },
+      "language": "en",
+      "territory": "GB"
+    },
+    "annotations": {
+      "🇧🇱": {
+        "tts": [
+          "flag: St Barthélemy"
+        ]
+      },
+      "🇰🇳": {
+        "tts": [
+          "flag: St Kitts & Nevis"
+        ]
+      },
+      "🇱🇨": {
+        "tts": [
+          "flag: St Lucia"
+        ]
+      },
+      "🇲🇫": {
+        "tts": [
+          "flag: St Martin"
+        ]
+      },
+      "🇵🇲": {
+        "tts": [
+          "flag: St Pierre & Miquelon"
+        ]
+      },
+      "🇸🇭": {
+        "tts": [
+          "flag: St Helena"
+        ]
+      },
+      "🇻🇨": {
+        "tts": [
+          "flag: St Vincent & the Grenadines"
+        ]
+      }
+    }
+  }
+}
